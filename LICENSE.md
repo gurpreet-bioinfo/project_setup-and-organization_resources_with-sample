@@ -4,4 +4,4 @@
 This work is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/). 
 
 **If you use this resource, please cite:**
-Kaur G (2025). My Top Go-To Resources to set-up and organize a computational project with sample project folder layout (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16886694
+Kaur G (2025). My Top Go-To Resources to set-up and organize a computational project with sample project folder layout (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16886711
