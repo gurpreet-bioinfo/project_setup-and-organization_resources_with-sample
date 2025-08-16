@@ -21,7 +21,7 @@
     - Add a `.gitignore` to exclude large or sensitive files (like `data/raw/`, `.Rhistory`, etc.).
     - Commit scripts, docs, and notes regularly, and host your repo on GitHub for backup, sharing, and citations in papers.
 
-6. Sample project polder layout:
+6. Sample project folder layout:
   ```
   project_NAME/
   ├── docs/                  # project documentation
