@@ -1,6 +1,6 @@
 # My Top Go-To Resources to set-up and organize a computational project with sample project folder layout
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16886694.svg)](https://doi.org/10.5281/zenodo.16886694)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16886711.svg)](https://doi.org/10.5281/zenodo.16886711)
 
 ## Here’s how to get started:
 
